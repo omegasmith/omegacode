@@ -93,6 +93,10 @@
 #for ch in phone:
 #    output += digits_map.get(ch, "!")
 #print (output)    
+#with open("./file") as f:
+#    lines = f.readlines()
+#print (lines)
+
 
 
 

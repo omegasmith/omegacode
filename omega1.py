@@ -52,5 +52,50 @@
 #print (max)
 #
 #
+#numbers = [1, 2, 3, 4, 5, 10]
+#numbers2 = numbers.copy()
+#print (numbers)
+#
+# remove dupes
+#numbers = [2, 2, 4, 2, 1]
+#uniq = []
+#for number in numbers:
+#    if number not in uniq:
+#        uniq.append(number)
+#print (uniq)
+# tuple
+#numbers = (1, 2, 3)
+#print (numbers)
+#qty = numbers[2]
+#print (qty)
+# unpacking
+# coordinate = (1, 2, 3)
+# x, y, z = coordinate
+# 
+# Dictionary
+#
+#
+#customer = {
+#    "Name": "Dusty",
+#    "Email": "dusty@foo.com",
+#    "Phone": 3039157611
+# }
+#print (customer["Name"])
+#print (customer.get("birth", "foo"))
+#customer["birth"] = "1 Jan"
+# get values from dict
+#phone = input("Phone: ")
+#digits_map = {
+#    "1": "One",
+#    "2": "Two"
+#}
+#output = ""
+#for ch in phone:
+#    output += digits_map.get(ch, "!")
+#print (output)    
+
+
+
+
 
 
